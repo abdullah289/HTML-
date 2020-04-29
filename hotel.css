@@ -1,0 +1,201 @@
+*
+{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  background: #545151;
+  display:flex;
+  align-items: right;
+padding: 10px 0;
+height:60%:
+}
+.intro h2{
+font-size: 50px;
+  margin: 20px;
+color:white;
+}
+.intro ul  {
+  list-style: none;
+  float: right;
+  display:flex;
+padding: 0 0 0 900px;
+margin-top: -5%;
+color: white;
+ font-size: 20px;
+ line-height: 30px;
+ cursor: pointer;
+}
+
+.main img{
+  width: 100%;
+position: relative;
+}
+.main  h1
+{
+ position:absolute;
+  margin-top: -50%;
+margin-left: 500px;
+  padding: 20px 0;
+  color: white;
+font-size: 50px;
+}
+.color
+{
+  color:#debd0e;
+}
+.main p {
+  position:absolute;
+   margin-top: -40%;
+   padding: 20px 0;
+   color: white;
+margin-left: 90px;
+}
+.photo img
+{
+  position:sticky;
+  width: 50%;
+  height: 40%;
+ box-sizing: border-box;
+ margin: 0;
+ display:inline;
+}
+#about{
+  position: absolute;
+  left: 45%;
+  top: 100%;
+width:100%
+height: 100%;
+font-size: 20px;
+color: white;
+background: #8476764d;
+padding: 10px;
+}
+.para
+{
+  width:50%;
+  margin-top: -30%;
+  right:50%;
+  float: right;
+  background: #545151;
+  height: 400px;
+  padding: 100px 0;
+}
+.para h3
+{
+  margin-top: -10%;
+   color: white;
+  text-align: center;
+  font-size: 40px;
+}
+.para h3 span
+{
+  color: #debd0e;
+}
+.para p{
+  color: black;
+  text-align: center;
+  margin: 30px;
+}
+.para #button1
+{
+  font-size: 20px;
+  color: white;
+  background: #8476764d;
+  padding: 10px;
+ margin: 0 0 0 240px;
+}
+.services
+{
+	display:flex;
+	justify-content: space-between;
+}
+.service-box
+{
+  height: 50%;
+  background:#ffffffb3;
+	border: 1px solid #eee
+ padding: 10px;
+	flex-direction:column;
+  text-align: center;
+ text-decoration: none;
+font-size: 20px;
+}
+.main2
+{
+  width:100%;
+text-align: center;
+box-sizing: border-box;
+background: #949494;
+padding: 30px;
+line-height: 3vw;
+color: white;
+}
+.about1
+{
+  color:#debd0e;
+}
+.img
+{
+  position:relative;
+  padding: 20px;
+  align-items: center;
+ height: 100%;
+ width: 100%;
+}
+.container
+{
+  margin-top: -40%;
+}
+.container h2
+{
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  margin: 20px;
+  color:#ffba54;
+}
+#message1
+{
+  position:relative;
+    background: #ffba54;
+  width: 80%;
+  text-align: center;
+  margin: 60px;
+  padding: 10px;
+  border: 1px solid black;
+color:white;
+}
+#message2{
+  position:relative;
+    background: #ffba54;
+  width: 80%;
+  text-align: center;
+  margin: 60px;
+  padding: 10px;
+  border: 1px solid black;
+  color:white;
+}
+.main3
+{
+  width: 100%;
+  margin:20px;
+  padding: 10px;
+  background: #ababab;
+  font-size: 20px;
+}
+.main3 h1
+{
+  text-align: center;
+  font-size: 40px;
+  color: #ffba54;
+}
+#button
+{
+  color: white;
+  background: black;
+  margin:10px;
+  padding: 10px;
+  font-size: 25px;
+}
